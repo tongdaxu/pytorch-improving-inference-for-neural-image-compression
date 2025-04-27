@@ -2,7 +2,8 @@
 * This is an unoffical pytorch implementation of Improving Inference for Neural Image Compression
 * Original tensorflow implementation: https://github.com/mandt-lab/improving-inference-for-neural-image-compression
 * This repo is based on CompressAI: https://github.com/InterDigitalInc/CompressAI/tree/master/compressai
-* Citation: if you find this repo helpful for you research, please cite this repo alone with original paper.
+* This repo is part of the code of our paper [NIPS 22 Flexible Neural Image Compression via Code Editing]
+* Citation: if you find this repo helpful for you research, please the original paper, alone with our paper [NIPS 22 Flexible Neural Image Compression via Code Editing]
 
 ## Prerequisites
 * packages: pytorch + torchvision, compressai, numpy
